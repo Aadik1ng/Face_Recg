@@ -1,0 +1,7 @@
+opencv-python
+face-recognition
+cvzone
+firebase-admin
+numpy
+streamlit
+streamlit-webrtc
